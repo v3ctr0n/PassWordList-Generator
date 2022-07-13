@@ -10,6 +10,6 @@ python pwl.py
 
 # Output
 ![pwl2-cropped](https://user-images.githubusercontent.com/72461989/178796820-4b705b34-cd34-4561-8211-6c339dfb55d1.png)
-- Currently the number of outputted words is set to 200, feel free to alter it for your own needs
+- Currently the number of output words is set to 300, feel free to alter it for your own needs
 
 _Side note: I will be updating the program to deal adequatly with the spaces in the wordlist and outputting into textfile later_ 
