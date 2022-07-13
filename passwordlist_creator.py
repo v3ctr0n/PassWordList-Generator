@@ -1,12 +1,13 @@
 import random
 
+print("")
 print("############################")
 print("#--------------------------#")
 print("#---PassWordlist Creator---#")
 print("#--------------------------#")
 print("############################")
 print("")
-print("Created by: FeynmanW6")
+print("Created by: v3ctr0n")
 print("")
 print("Company (1) or a single person (2) ?")
 answer = input("Choose 1 or 2: ")
