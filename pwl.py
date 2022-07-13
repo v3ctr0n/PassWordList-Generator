@@ -16,7 +16,7 @@ print('''
                     Created by: v3ctr0n      
                     ''')
 print("Company (1) or a single person (2) ?")
-answer = input(" Choose 1 or 2: ")
+answer = input("Choose 1 or 2: ")
 
 if answer == "1":
     answ = input("How many words to combine? (3 = default - up to 7): ")
