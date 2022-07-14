@@ -9,7 +9,8 @@ python pwl.py
 - Enter one word into each line (not all of them have to be filled)
 
 # Output
-![pwl2-cropped](https://user-images.githubusercontent.com/72461989/178796820-4b705b34-cd34-4561-8211-6c339dfb55d1.png)
+![pwl2-cropped](https://user-images.githubusercontent.com/72461989/179053449-43bc68c5-b7fd-4bec-9108-58397f5f4112.png)
+
 - Currently the number of output words is set to 300, feel free to alter it for your own needs
 
 _Side note: I will be updating the program to deal with output into textfile later_ 
