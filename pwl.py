@@ -1,6 +1,18 @@
 import random
 import string
 
+print( '''
+
+╔═══╗             ╔╗╔╗╔╗         ╔╗╔╗          ╔╗     
+║╔═╗║             ║║║║║║         ║║║║         ╔╝╚╗    
+║╚═╝║╔══╗ ╔══╗╔══╗║║║║║║╔══╗╔═╗╔═╝║║║   ╔╗╔══╗╚╗╔╝    
+║╔══╝╚ ╗║ ║══╣║══╣║╚╝╚╝║║╔╗║║╔╝║╔╗║║║ ╔╗╠╣║══╣ ║║     
+║║   ║╚╝╚╗╠══║╠══║╚╗╔╗╔╝║╚╝║║║ ║╚╝║║╚═╝║║║╠══║ ║╚╗    
+╚╝   ╚═══╝╚══╝╚══╝ ╚╝╚╝ ╚══╝╚╝ ╚══╝╚═══╝╚╝╚══╝ ╚═╝    
+        GENERATOR by v3ctr0n
+        
+''')
+
 special_chars = ['@', '#', '&', '$', '*', '%', '!', '~', '?', '123']
 
 def generate_passwords(num_passwords, info_list, include_special_chars=False, capitalize_words=False):
