@@ -9,9 +9,6 @@ python pwl.py
 
 
 
-
-- Enter one word into each line (not all of them have to be filled)
-
 # Output
 ![Screenshot_20230408_1330402](https://user-images.githubusercontent.com/72461989/230718883-88132f2b-a752-4200-9d67-af0e6d0a68f1.png)
 
