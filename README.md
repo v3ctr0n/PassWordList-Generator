@@ -5,11 +5,14 @@ Program which generates wordlist of possible passwords based on information subm
 python pwl.py
 ```
 # Example of usage
-![Screenshot_20230408_131617](https://user-images.githubusercontent.com/72461989/230718351-8678fa63-b6ec-41b5-a3c1-a3c3b6b2d921.png)
+![Screenshot_20230408_1327182](https://user-images.githubusercontent.com/72461989/230718737-ae00ba0b-4bbc-440f-a22f-cb35fe808b68.png)
+
+
 
 
 - Enter one word into each line (not all of them have to be filled)
 
 # Output
+![Screenshot_20230408_1330402](https://user-images.githubusercontent.com/72461989/230718883-88132f2b-a752-4200-9d67-af0e6d0a68f1.png)
 
 
